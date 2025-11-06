@@ -1,0 +1,13 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+border: double;
+text-shadow:2px 2px lightseagreen; 
+font-size: 30px; 
+
+}
+h2{
+    text-shadow:2px 2px lightseagreen; 
+    font-size: 30px; 
+}
